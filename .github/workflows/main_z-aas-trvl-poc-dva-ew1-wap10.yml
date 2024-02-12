@@ -59,4 +59,4 @@ jobs:
           app-name: 'z-aas-trvl-poc-dva-ew1-wap10'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4D4436F84E384256B93AA68B36C40C41 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5FF082B85E9B44B7B2ADE16C29D62C93 }}
